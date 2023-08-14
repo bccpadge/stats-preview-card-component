@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-html-and-css-d0nDQhERIx)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/stats-preview-card-component/)
 
 ## My process
 
